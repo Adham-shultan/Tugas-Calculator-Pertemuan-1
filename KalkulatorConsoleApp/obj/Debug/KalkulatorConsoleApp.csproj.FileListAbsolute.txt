@@ -1,0 +1,7 @@
+D:\beckup c\Documents\adham\amikom\adham\AMIKOM\20-S1IF-01\Semester 2\Pemrograman\KalkulatorConsoleApp\KalkulatorConsoleApp\bin\Debug\KalkulatorConsoleApp.exe.config
+D:\beckup c\Documents\adham\amikom\adham\AMIKOM\20-S1IF-01\Semester 2\Pemrograman\KalkulatorConsoleApp\KalkulatorConsoleApp\bin\Debug\KalkulatorConsoleApp.exe
+D:\beckup c\Documents\adham\amikom\adham\AMIKOM\20-S1IF-01\Semester 2\Pemrograman\KalkulatorConsoleApp\KalkulatorConsoleApp\bin\Debug\KalkulatorConsoleApp.pdb
+D:\beckup c\Documents\adham\amikom\adham\AMIKOM\20-S1IF-01\Semester 2\Pemrograman\KalkulatorConsoleApp\KalkulatorConsoleApp\obj\Debug\KalkulatorConsoleApp.csprojAssemblyReference.cache
+D:\beckup c\Documents\adham\amikom\adham\AMIKOM\20-S1IF-01\Semester 2\Pemrograman\KalkulatorConsoleApp\KalkulatorConsoleApp\obj\Debug\KalkulatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\beckup c\Documents\adham\amikom\adham\AMIKOM\20-S1IF-01\Semester 2\Pemrograman\KalkulatorConsoleApp\KalkulatorConsoleApp\obj\Debug\KalkulatorConsoleApp.exe
+D:\beckup c\Documents\adham\amikom\adham\AMIKOM\20-S1IF-01\Semester 2\Pemrograman\KalkulatorConsoleApp\KalkulatorConsoleApp\obj\Debug\KalkulatorConsoleApp.pdb
